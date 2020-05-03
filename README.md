@@ -1,4 +1,5 @@
 # Futebol-de-papel
-Game Feito no Godot
 
-![](images/futebolpapel.png)
+Game Feito no Godot com GDscrip!
+
+![](Game/imagens/futebolpapel.png)
